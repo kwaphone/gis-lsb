@@ -1,0 +1,9 @@
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\bin\Debug\GISLSB.exe
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\bin\Debug\GISLSB.pdb
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.Properties.Resources.resources
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.csproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.exe
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.pdb
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.MainFrame.resources
+G:\Documents\Visual Studio 2008\Projects\GISLSB\GISLSB\obj\x86\Debug\GISLSB.FormHideMsg.resources
